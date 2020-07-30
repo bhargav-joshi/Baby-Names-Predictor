@@ -1,6 +1,6 @@
 # Baby Names Gender Predictor from Given Name
 
-![image](https://user-images.githubusercontent.com/47782249/88933144-a6990a00-d29c-11ea-9907-0300161f2188.png)
+<img src="https://user-images.githubusercontent.com/47782249/88933144-a6990a00-d29c-11ea-9907-0300161f2188.png" width="400" align='right'> 
 
 This model Predicts the Gender of Given name.
 
